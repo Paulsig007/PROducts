@@ -6,7 +6,7 @@ class Category extends Model {}
 
 Category.init(
   {
-    category_id: {
+    id: {
       allowNull: false,
       type: DataTypes.INTEGER,
       primaryKey: true,
@@ -20,6 +20,7 @@ Category.init(
   {
     sequelize,
     timestamps: false,
+    freezeTableName: true,
     underscored: true,
     modelName: "category",
   }
