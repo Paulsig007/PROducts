@@ -16,10 +16,16 @@
   
   
   ## Installation
-  Once the user clones the code, they only need to download the node modules running the npm i command, create the database using the schema, seed the database using the npm run seed comand, then run the server using the npm run watch command. Utilizing an application like Insomnia will help the user to visualize how the database stores, reads, creates, updates and deletes the data. 
+  Once the user clones the code, they only need to download the node modules running the npm i command.
   
   ## Usage
-  
+  Once the user has downloaded the node modules, they need only to create the database using the schema, seed the database using the npm run seed comand, then run the server using the npm run watch 
+  command. Utilizing an application like Insomnia will help the user to visualize how the database stores, reads, creates, updates and deletes the data. 
+
+  ![Screenshot 2023-06-28 at 10 37 50 PM](https://github.com/Paulsig007/PROducts/assets/131915869/1ea4384c-0250-4c04-bd63-c0d4946a073e)
+
+  ![Screenshot 2023-06-28 at 10 38 10 PM](https://github.com/Paulsig007/PROducts/assets/131915869/581a4fcf-e7e2-41e7-98a6-ae6794dbedbc)
+
   
   ## License
   
