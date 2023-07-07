@@ -1,6 +1,6 @@
 # PROducts
-  ## Badges
-  
+
+Video Walkthrough: https://drive.google.com/file/d/1j89xr6TmftxfhHgbXQ8BuzPX2F7ahNgh/view  
 
   ## Description
   I wanted to create a database to help me keep track of my inventory for my ecommerce business. Using the correct technology I can see all of mu products, categories of products, as well as the tags that are associated to those products. I can also see individual products, create new ones, update existing products, as well delete them. I can accomplish those same tasks on the tags as well as the categories. This database will help maintain any ecommerce store. 
